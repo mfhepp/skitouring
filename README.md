@@ -1,5 +1,7 @@
 # Ski Mountaineering and Alpinism Resources
 
+![Skitouring Image](media/skitouring.jpeg)
+
 ## Maps and Topographical Information
 
 - [OpenSlopeMap.org - Maps with Slope Steepness](https://www.openslopemap.org/karte/)
